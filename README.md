@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abdulaziz-Sheikh
 - 👀 I’m interested in ...Data Analytics
-- 🌱 I’m currently learning ...Hypothesis testing 
+- 🌱 I’m currently learning ...Cloud base engineering
 - 💞️ I’m looking to collaborate on ...Machine laerning Projects
 - 📫 How to reach me ...abdulaziz9921@gmail.com
 
